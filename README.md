@@ -2,7 +2,7 @@ Hi,
 
 I'm Lawal Akande  
 
-Frontend Engineer | Tech Lead
+Software Engineer | Tech Lead
 
 I'm a highly motivated and detail-oriented Senior Software Engineer with extensive experience building scalable, responsive, and user-friendly web and mobile applications. I’m passionate about clean architecture, UI/UX excellence, performance optimization, testing, and delivering impactful products.
 
